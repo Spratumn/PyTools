@@ -21,7 +21,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 # get youself API_KEY from baidu ai studio
 API_KEY = ''
 
-SECRET_KEY = 'LkksplNCsSdpHa2kQjeCTu2T9qgW444a'
+SECRET_KEY = ''
 
 
 OCR_URL = "https://aip.baidubce.com/rest/2.0/ocr/v1/accurate_basic"
